@@ -8,7 +8,7 @@ Android app (pronounced "message") that allows users to comment in specific thre
 
 ## Test
 
-I created automated user interface tests for the front-end of the mECEge app using the instrumented unit test functionality of the Android Studio. I also utilized Google's Espresso to write reliable Android UI tests. The main purpose of the tests are to verify the functionality of the user interfaces like listview and buttons. Some of the testing capabilities include:
+I created automated user interface tests for the front-end of the mECEge app using the instrumented unit test functionality of the Android Studio. I also utilized Google's Espresso to write reliable Android UI tests. The main purpose of the tests are to verify the functionality of the user interfaces. Some of the testing capabilities include:
 * Send a message and receive it back as one of the most recently stored messages
 * Load (up to) 10 of the most recently stored messages 
 * Load (up to) 10 more of the most recently stored messages
