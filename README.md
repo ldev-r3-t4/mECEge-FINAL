@@ -19,7 +19,6 @@ You can find the test at
 ./app/src/androidTest/java/com/example/takondwakakusa/androidbackgroundcomm/FrontEndTest.java
 
 You can find the video of test demo at 
-
 ./TestingVideo.mp4
 
 ## How to Run 
